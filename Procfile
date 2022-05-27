@@ -1,0 +1,1 @@
+web:sh setup.sh && streamilt run multiple disease prediction.py
